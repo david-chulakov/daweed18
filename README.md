@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @daweed18
 - 👀 I’m interested in Big Data, Data analisys, and machine learning
-- 🌱 I’m currently learning Python with his frameworks and SQL
 -
 - Hackathons list:
 -      Definition hack
